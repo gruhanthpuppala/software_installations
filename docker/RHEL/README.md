@@ -1,0 +1,1 @@
+This script is for --> Red Hat Enterprise Linux version 9 image
